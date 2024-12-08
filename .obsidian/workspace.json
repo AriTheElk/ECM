@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "0e8d3cbece33b4c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "653a631fbe2c6395",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5ef76fb0f5d4704d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECM.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ECM"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f27b748608ab26a9",
+    "type": "split",
+    "children": [
+      {
+        "id": "6a87881fc7c604f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9de14ae33ef18e87",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "91644595c28efa0a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "232e3f95126732b1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "120d831a3d54deee",
+    "type": "split",
+    "children": [
+      {
+        "id": "71e98891d59beef8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45476d2dee90e304",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "8deb554b4904b367",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "bdd9c09f9929c40c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b894ce5840c8321f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "5ef76fb0f5d4704d",
+  "lastOpenFiles": [
+    "Components/ECM/Timelinear.jsx",
+    "Components/index.js",
+    "Components/ECM/manifest.md",
+    "ECM.md",
+    "test.md",
+    "Components/ECM/MediaManager.jsx",
+    "Components/ECM/ScrollView.jsx",
+    "Components/ECM/sugar.jsx",
+    "Components/ECM/index.js",
+    "Components/ECM/utility-hooks.jsx",
+    "Components/ECM/Rolodex.jsx",
+    "Components/ECM/ECM.jsx",
+    "Components/ECM",
+    "pkg.elk.wtf/ecm/ECM/sugar.js",
+    "pkg.elk.wtf/ecm/ECM/manifest.md",
+    "Welcome.md"
+  ]
+}

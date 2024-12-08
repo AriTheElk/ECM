@@ -1,0 +1,15 @@
+{
+  "name": "Rolodex",
+  "version": "1.0.1",
+  "source": "https://pkg.elk.wtf/rolodex/Rolodex.jsx",
+  "requires": [
+    {
+      "manifest": "https://pkg.elk.wtf/ScrollView/manifest.json",
+      "version": "1.0.0"
+    },
+    {
+      "manifest": "https://pkg.elk.wtf/utility-hooks/manifest.json",
+      "version": "0.1.0"
+    }
+  ]
+}

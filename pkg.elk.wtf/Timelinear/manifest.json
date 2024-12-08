@@ -1,0 +1,11 @@
+{
+  "name": "Timelinear",
+  "version": "1.0.0",
+  "source": "https://pkg.elk.wtf/Timelinear/Timelinear.jsx",
+  "requires": [
+    {
+      "manifest": "https://pkg.elk.wtf/sugar/manifest.json",
+      "version": "0.1.0"
+    }
+  ]
+}
