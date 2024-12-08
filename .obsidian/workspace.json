@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "ECM"
             }
+          },
+          {
+            "id": "fdf372a9cfafeb9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rolodex.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Rolodex"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,13 +174,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5ef76fb0f5d4704d",
+  "active": "fdf372a9cfafeb9a",
   "lastOpenFiles": [
+    "Contacts/Abby Torp.md",
+    "Contacts/Jett Deckow.md",
+    "Contacts/Cory Gerhold.md",
+    "Contacts/Vallie Williamson.md",
+    "Contacts/Fleta Cruickshank.md",
+    "Contacts/Newell Leuschke.md",
+    "Contacts/Nickolas Haag.md",
+    "Contacts/Jevon O'Kon.md",
+    "Contacts/Carmen Bayer.md",
+    "Contacts/Yazmin Champlin.md",
+    "Contacts/Ruby Weissnat-Pollich.md",
+    "Contacts/Uriah Bradtke.md",
+    "Contacts/Filiberto Crooks.md",
+    "Contacts/Kaleigh Mayert.md",
+    "Contacts/Novella Emard.md",
+    "Contacts/Bernice Nitzsche.md",
+    "Contacts/Madeline Mills.md",
+    "Contacts/Ulices Mante-Gulgowski.md",
+    "Contacts/Willow Johnston.md",
+    "Contacts/Merlin Daniel.md",
+    "Contacts/Shany Schumm.md",
+    "Contacts/Joshuah Streich.md",
+    "Contacts/Laurianne Fritsch.md",
+    "Contacts/Nikita Tremblay.md",
+    "Contacts/Vergie Dare.md",
+    "Contacts/Lilian McKenzie.md",
     "Components/ECM/Timelinear.jsx",
     "Components/index.js",
-    "Components/ECM/manifest.md",
-    "ECM.md",
-    "test.md",
     "Components/ECM/MediaManager.jsx",
     "Components/ECM/ScrollView.jsx",
     "Components/ECM/sugar.jsx",
@@ -173,9 +211,6 @@
     "Components/ECM/utility-hooks.jsx",
     "Components/ECM/Rolodex.jsx",
     "Components/ECM/ECM.jsx",
-    "Components/ECM",
-    "pkg.elk.wtf/ecm/ECM/sugar.js",
-    "pkg.elk.wtf/ecm/ECM/manifest.md",
-    "Welcome.md"
+    "Components/ECM"
   ]
 }
